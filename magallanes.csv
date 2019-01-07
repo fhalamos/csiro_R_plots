@@ -1,0 +1,409 @@
+Nombre y apellido,Email,Teléfono,Región,Años de trabajo en salmonicultura,Tipo Factor,Factor,Probabilidad,Consecuencia,Confianza,Riesgo,Probabilidad_n,Consecuencia_n,Codigo,Nombre factor
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,1,4,4,2,16,Probable,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,2,3,2,2,6,Ocasional,Menor,muel_carg,Muelles de carga o puertos de operacion
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,3,5,4,2,20,Casi seguro,Mayor,traf_mari,Tráfico marítimo
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,4,5,4,2,20,Casi seguro,Mayor,epoc_siem,Época de siembra
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,5,3,4,2,12,Ocasional,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,6,4,4,2,16,Probable,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,7,3,4,3,12,Ocasional,Mayor,nume_cent,Número de centros por ACS
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,8,4,4,3,16,Probable,Mayor,nume_pece,Número de peces sembrados
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Productivo,10,3,2,2,6,Ocasional,Menor,cald_smol,Calidad de smolt
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Sanitario,11,3,4,2,12,Ocasional,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Sanitario,12,4,4,2,16,Probable,Mayor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Sanitario,13,3,3,2,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Sanitario,14,1,3,3,3,Casi nulo,Moderada,bano_anti,Baños antiparasitarios
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Sanitario,15,5,3,2,15,Casi seguro,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Sanitario,16,2,3,2,6,Poco usual,Moderada,foul_jaul,Fouling de jaula
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Sanitario,17,1,4,3,4,Casi nulo,Mayor,pres_cali,Presencia de Cáligus
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Sanitario,18,2,3,2,6,Poco usual,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Sanitario,19,3,3,2,9,Ocasional,Moderada,pres_pece,Presencia de peces de descarte
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Ambiental,21,4,2,3,8,Probable,Menor,temp_baja,Temperatura mar baja
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Ambiental,22,4,4,3,16,Probable,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Ambiental,23,3,3,2,9,Ocasional,Moderada,sust_anae,Sustrato anaeróbico en centro
+Elizabeth Godoy,egodoy@sernapesca.cl,,Región de Magallanes (XII),10,Ambiental,24,4,4,3,16,Probable,Mayor,flore_alga,Florecimiento Algas Nocivas
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,1,2,2,2,4,Poco usual,Menor,cent_acop,Centros de acopio o plantas de proceso
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,2,2,2,2,4,Poco usual,Menor,muel_carg,Muelles de carga o puertos de operacion
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,3,4,4,3,16,Probable,Mayor,traf_mari,Tráfico marítimo
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,4,3,3,2,9,Ocasional,Moderada,epoc_siem,Época de siembra
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,5,2,2,2,4,Poco usual,Menor,etap_prod,Etapa productiva de barrios vecinos
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,6,2,2,2,4,Poco usual,Menor,dens_cent,Densidad de centros de cultivo en barrio
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,7,3,3,2,9,Ocasional,Moderada,nume_cent,Número de centros por ACS
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,8,3,3,2,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,9,2,2,2,4,Poco usual,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Productivo,10,4,3,2,12,Probable,Moderada,cald_smol,Calidad de smolt
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Sanitario,11,3,3,3,9,Ocasional,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Sanitario,12,2,2,3,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Sanitario,13,2,2,3,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Sanitario,14,1,1,3,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Sanitario,15,2,2,3,4,Poco usual,Menor,cond_sani,Condición sanitaria de peces sembrados
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Sanitario,16,2,2,3,4,Poco usual,Menor,foul_jaul,Fouling de jaula
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Sanitario,17,1,1,3,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Sanitario,18,3,3,2,9,Ocasional,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Sanitario,19,2,2,3,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Ambiental,20,3,3,3,9,Ocasional,Moderada,temp_alta,Temperatura mar alta
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Ambiental,21,3,2,2,6,Ocasional,Menor,temp_baja,Temperatura mar baja
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Ambiental,22,2,2,3,4,Poco usual,Menor,pres_lobo,Presencia/ataque de lobos marinos
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Ambiental,23,2,2,2,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+Germán Daniel Burgos Reyes,gburgos@australis-sa.com,,Región de Magallanes (XII),24,Ambiental,24,3,3,3,9,Ocasional,Moderada,flore_alga,Florecimiento Algas Nocivas
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,2,2,2,2,4,Poco usual,Menor,muel_carg,Muelles de carga o puertos de operacion
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,3,2,2,2,4,Poco usual,Menor,traf_mari,Tráfico marítimo
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,4,3,2,2,6,Ocasional,Menor,epoc_siem,Época de siembra
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,5,3,2,2,6,Ocasional,Menor,etap_prod,Etapa productiva de barrios vecinos
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,6,4,2,2,8,Probable,Menor,dens_cent,Densidad de centros de cultivo en barrio
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,7,3,3,2,9,Ocasional,Moderada,nume_cent,Número de centros por ACS
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,8,3,3,2,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Productivo,10,1,1,3,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Sanitario,11,1,2,3,2,Casi nulo,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Sanitario,12,4,3,2,12,Probable,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Sanitario,13,4,3,2,12,Probable,Moderada,mort_acum,Mortalidad acumulada
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Sanitario,14,4,3,2,12,Probable,Moderada,bano_anti,Baños antiparasitarios
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Sanitario,15,5,3,3,15,Casi seguro,Moderada,cond_sani,Condición sanitaria de peces sembrados
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Sanitario,16,5,4,3,20,Casi seguro,Mayor,foul_jaul,Fouling de jaula
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Sanitario,17,5,3,2,15,Casi seguro,Moderada,pres_cali,Presencia de Cáligus
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Sanitario,18,4,3,3,12,Probable,Moderada,cerc_gran,Cercanía a granja con enfermedad
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Sanitario,19,4,3,2,12,Probable,Moderada,pres_pece,Presencia de peces de descarte
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Ambiental,20,4,3,3,12,Probable,Moderada,temp_alta,Temperatura mar alta
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Ambiental,21,1,1,3,1,Casi nulo,Insignificante,temp_baja,Temperatura mar baja
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Ambiental,22,4,3,2,12,Probable,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Ambiental,23,1,2,2,2,Casi nulo,Menor,sust_anae,Sustrato anaeróbico en centro
+MAURICIO BUSTAMANTE,mbustamante@australis-sa.com,42278779,Región de Magallanes (XII),14,Ambiental,24,5,4,3,20,Casi seguro,Mayor,flore_alga,Florecimiento Algas Nocivas
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,1,1,1,1,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,2,1,1,1,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,3,1,1,1,1,Casi nulo,Insignificante,traf_mari,Tráfico marítimo
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,4,4,4,2,16,Probable,Mayor,epoc_siem,Época de siembra
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,5,3,3,2,9,Ocasional,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,6,4,3,2,12,Probable,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,7,4,3,2,12,Probable,Moderada,nume_cent,Número de centros por ACS
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,8,3,2,2,6,Ocasional,Menor,nume_pece,Número de peces sembrados
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,9,2,2,1,4,Poco usual,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Productivo,10,4,3,2,12,Probable,Moderada,cald_smol,Calidad de smolt
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Sanitario,11,5,4,3,20,Casi seguro,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Sanitario,12,4,3,2,12,Probable,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Sanitario,13,4,3,2,12,Probable,Moderada,mort_acum,Mortalidad acumulada
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Sanitario,14,1,1,1,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Sanitario,15,4,3,2,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Sanitario,16,3,3,2,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Sanitario,17,1,1,1,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Sanitario,18,3,3,2,9,Ocasional,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Sanitario,19,3,3,2,9,Ocasional,Moderada,pres_pece,Presencia de peces de descarte
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Ambiental,20,4,3,2,12,Probable,Moderada,temp_alta,Temperatura mar alta
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Ambiental,21,2,2,1,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Ambiental,22,4,3,2,12,Probable,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Ambiental,23,3,3,2,9,Ocasional,Moderada,sust_anae,Sustrato anaeróbico en centro
+Marcelo Venegas,marcelo.venegas@cermaq.com,979776950,Región de Magallanes (XII),10,Ambiental,24,3,3,2,9,Ocasional,Moderada,flore_alga,Florecimiento Algas Nocivas
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,2,1,1,3,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,3,2,1,3,2,Poco usual,Insignificante,traf_mari,Tráfico marítimo
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,4,3,3,3,9,Ocasional,Moderada,epoc_siem,Época de siembra
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,5,3,2,2,6,Ocasional,Menor,etap_prod,Etapa productiva de barrios vecinos
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,6,5,4,2,20,Casi seguro,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,7,1,1,3,1,Casi nulo,Insignificante,nume_cent,Número de centros por ACS
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,8,3,2,2,6,Ocasional,Menor,nume_pece,Número de peces sembrados
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,9,2,2,3,4,Poco usual,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Productivo,10,2,2,3,4,Poco usual,Menor,cald_smol,Calidad de smolt
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Sanitario,11,2,2,3,4,Poco usual,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Sanitario,12,2,2,3,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Sanitario,13,1,1,3,1,Casi nulo,Insignificante,mort_acum,Mortalidad acumulada
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Sanitario,14,1,1,3,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Sanitario,15,3,2,3,6,Ocasional,Menor,cond_sani,Condición sanitaria de peces sembrados
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Sanitario,16,2,1,3,2,Poco usual,Insignificante,foul_jaul,Fouling de jaula
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Sanitario,17,1,1,3,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Sanitario,18,2,2,3,4,Poco usual,Menor,cerc_gran,Cercanía a granja con enfermedad
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Sanitario,19,1,1,3,1,Casi nulo,Insignificante,pres_pece,Presencia de peces de descarte
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Ambiental,20,2,1,3,2,Poco usual,Insignificante,temp_alta,Temperatura mar alta
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Ambiental,21,1,1,3,1,Casi nulo,Insignificante,temp_baja,Temperatura mar baja
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Ambiental,22,3,3,3,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Ambiental,23,1,1,3,1,Casi nulo,Insignificante,sust_anae,Sustrato anaeróbico en centro
+Hernán Mansilla,hmansilla@sernapesca.cl,979666222,Región de Magallanes (XII),8,Ambiental,24,1,1,3,1,Casi nulo,Insignificante,flore_alga,Florecimiento Algas Nocivas
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,2,1,1,3,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,3,2,2,3,4,Poco usual,Menor,traf_mari,Tráfico marítimo
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,4,3,2,3,6,Ocasional,Menor,epoc_siem,Época de siembra
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,5,4,3,2,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,6,4,4,2,16,Probable,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,7,1,2,2,2,Casi nulo,Menor,nume_cent,Número de centros por ACS
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,8,3,2,2,6,Ocasional,Menor,nume_pece,Número de peces sembrados
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,9,2,2,3,4,Poco usual,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Productivo,10,2,2,3,4,Poco usual,Menor,cald_smol,Calidad de smolt
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Sanitario,11,2,2,3,4,Poco usual,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Sanitario,12,2,2,2,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Sanitario,13,1,2,3,2,Casi nulo,Menor,mort_acum,Mortalidad acumulada
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Sanitario,14,1,1,3,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Sanitario,15,3,2,2,6,Ocasional,Menor,cond_sani,Condición sanitaria de peces sembrados
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Sanitario,16,1,1,3,1,Casi nulo,Insignificante,foul_jaul,Fouling de jaula
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Sanitario,17,1,1,3,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Sanitario,18,4,3,2,12,Probable,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Sanitario,19,2,2,3,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Ambiental,20,2,1,3,2,Poco usual,Insignificante,temp_alta,Temperatura mar alta
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Ambiental,21,2,1,3,2,Poco usual,Insignificante,temp_baja,Temperatura mar baja
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Ambiental,22,3,3,2,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Ambiental,23,1,1,3,1,Casi nulo,Insignificante,sust_anae,Sustrato anaeróbico en centro
+Reinaldo Vargas,rvargas@sernapesca.cl,612269727,Región de Magallanes (XII),6,Ambiental,24,1,1,3,1,Casi nulo,Insignificante,flore_alga,Florecimiento Algas Nocivas
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,1,1,1,1,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,2,1,1,1,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,3,2,2,1,4,Poco usual,Menor,traf_mari,Tráfico marítimo
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,4,4,3,2,12,Probable,Moderada,epoc_siem,Época de siembra
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,5,5,4,3,20,Casi seguro,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,6,2,2,1,4,Poco usual,Menor,dens_cent,Densidad de centros de cultivo en barrio
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,7,2,2,1,4,Poco usual,Menor,nume_cent,Número de centros por ACS
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,8,3,3,2,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,9,5,4,3,20,Casi seguro,Mayor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Productivo,10,1,2,1,2,Casi nulo,Menor,cald_smol,Calidad de smolt
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Sanitario,11,2,2,1,4,Poco usual,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Sanitario,12,2,2,1,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Sanitario,13,2,2,1,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Sanitario,14,1,1,1,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Sanitario,15,4,3,2,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Sanitario,16,2,2,1,4,Poco usual,Menor,foul_jaul,Fouling de jaula
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Sanitario,17,1,1,1,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Sanitario,18,2,3,1,6,Poco usual,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Sanitario,19,2,2,1,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Ambiental,20,5,3,2,15,Casi seguro,Moderada,temp_alta,Temperatura mar alta
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Ambiental,21,2,2,1,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Ambiental,22,4,3,2,12,Probable,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Ambiental,23,4,4,3,16,Probable,Mayor,sust_anae,Sustrato anaeróbico en centro
+Francisco Calderón,fcalderon@sernapesca.cl,612269727,Región de Magallanes (XII),11,Ambiental,24,2,2,1,4,Poco usual,Menor,flore_alga,Florecimiento Algas Nocivas
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,1,2,3,2,6,Poco usual,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,2,2,3,2,6,Poco usual,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,3,3,3,2,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,4,4,4,2,16,Probable,Mayor,epoc_siem,Época de siembra
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,5,4,4,2,16,Probable,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,6,4,4,2,16,Probable,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,7,4,4,2,16,Probable,Mayor,nume_cent,Número de centros por ACS
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,8,4,4,3,16,Probable,Mayor,nume_pece,Número de peces sembrados
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Productivo,10,4,4,2,16,Probable,Mayor,cald_smol,Calidad de smolt
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Sanitario,11,4,4,2,16,Probable,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Sanitario,12,3,3,2,9,Ocasional,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Sanitario,13,3,3,2,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Sanitario,14,3,3,2,9,Ocasional,Moderada,bano_anti,Baños antiparasitarios
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Sanitario,15,5,5,2,25,Casi seguro,Catastrofica,cond_sani,Condición sanitaria de peces sembrados
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Sanitario,16,4,2,2,8,Probable,Menor,foul_jaul,Fouling de jaula
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Sanitario,17,4,4,2,16,Probable,Mayor,pres_cali,Presencia de Cáligus
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Sanitario,18,4,3,2,12,Probable,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Sanitario,19,3,2,2,6,Ocasional,Menor,pres_pece,Presencia de peces de descarte
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Ambiental,20,5,4,2,20,Casi seguro,Mayor,temp_alta,Temperatura mar alta
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Ambiental,21,2,2,2,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Ambiental,22,4,4,2,16,Probable,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Ambiental,23,3,2,2,6,Ocasional,Menor,sust_anae,Sustrato anaeróbico en centro
+Gonzalo Rojas    ,grojas@sernapesca.cl,2819284,Región de Magallanes (XII),7,Ambiental,24,5,5,2,25,Casi seguro,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,2,1,1,3,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,3,3,2,3,6,Ocasional,Menor,traf_mari,Tráfico marítimo
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,4,4,3,3,12,Probable,Moderada,epoc_siem,Época de siembra
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,5,4,3,3,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,6,4,3,3,12,Probable,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,7,1,1,3,1,Casi nulo,Insignificante,nume_cent,Número de centros por ACS
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,8,2,2,3,4,Poco usual,Menor,nume_pece,Número de peces sembrados
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,9,4,2,3,8,Probable,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Productivo,10,1,1,3,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Sanitario,11,2,3,3,6,Poco usual,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Sanitario,12,3,3,3,9,Ocasional,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Sanitario,13,2,2,3,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Sanitario,14,1,1,3,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Sanitario,15,2,2,3,4,Poco usual,Menor,cond_sani,Condición sanitaria de peces sembrados
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Sanitario,16,3,3,3,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Sanitario,17,1,1,3,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Sanitario,18,4,3,3,12,Probable,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Sanitario,19,2,1,3,2,Poco usual,Insignificante,pres_pece,Presencia de peces de descarte
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Ambiental,20,4,3,3,12,Probable,Moderada,temp_alta,Temperatura mar alta
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Ambiental,21,4,3,3,12,Probable,Moderada,temp_baja,Temperatura mar baja
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Ambiental,22,4,4,3,16,Probable,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Ambiental,23,3,4,3,12,Ocasional,Mayor,sust_anae,Sustrato anaeróbico en centro
+Juan Saldivia,juan.saldivia@cermaq.com,999995902,Región de Magallanes (XII),20,Ambiental,24,1,1,3,1,Casi nulo,Insignificante,flore_alga,Florecimiento Algas Nocivas
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,1,1,2,1,2,Casi nulo,Menor,cent_acop,Centros de acopio o plantas de proceso
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,2,1,1,1,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,3,2,1,1,2,Poco usual,Insignificante,traf_mari,Tráfico marítimo
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,4,3,2,1,6,Ocasional,Menor,epoc_siem,Época de siembra
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,5,2,1,1,2,Poco usual,Insignificante,etap_prod,Etapa productiva de barrios vecinos
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,6,3,2,1,6,Ocasional,Menor,dens_cent,Densidad de centros de cultivo en barrio
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,7,2,2,2,4,Poco usual,Menor,nume_cent,Número de centros por ACS
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,8,2,3,2,6,Poco usual,Moderada,nume_pece,Número de peces sembrados
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,9,5,1,1,5,Casi seguro,Insignificante,peso_smol,Peso smolt a la siembra (< 130 gr)
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Productivo,10,1,1,1,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Sanitario,11,1,1,1,1,Casi nulo,Insignificante,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Sanitario,12,1,1,1,1,Casi nulo,Insignificante,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Sanitario,13,1,1,1,1,Casi nulo,Insignificante,mort_acum,Mortalidad acumulada
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Sanitario,14,1,1,1,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Sanitario,15,1,2,1,2,Casi nulo,Menor,cond_sani,Condición sanitaria de peces sembrados
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Sanitario,16,1,1,1,1,Casi nulo,Insignificante,foul_jaul,Fouling de jaula
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Sanitario,17,1,1,1,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Sanitario,18,1,1,1,1,Casi nulo,Insignificante,cerc_gran,Cercanía a granja con enfermedad
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Sanitario,19,1,1,1,1,Casi nulo,Insignificante,pres_pece,Presencia de peces de descarte
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Ambiental,20,1,2,1,2,Casi nulo,Menor,temp_alta,Temperatura mar alta
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Ambiental,21,1,1,1,1,Casi nulo,Insignificante,temp_baja,Temperatura mar baja
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Ambiental,22,2,2,1,4,Poco usual,Menor,pres_lobo,Presencia/ataque de lobos marinos
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Ambiental,23,2,2,2,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+Pilar Diaz,pilar.diazcermaq.com,979896360,Región de Magallanes (XII),6,Ambiental,24,1,2,1,2,Casi nulo,Menor,flore_alga,Florecimiento Algas Nocivas
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,1,1,2,1,2,Casi nulo,Menor,cent_acop,Centros de acopio o plantas de proceso
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,2,1,1,1,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,3,1,1,1,1,Casi nulo,Insignificante,traf_mari,Tráfico marítimo
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,4,3,3,2,9,Ocasional,Moderada,epoc_siem,Época de siembra
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,5,2,3,1,6,Poco usual,Moderada,etap_prod,Etapa productiva de barrios vecinos
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,6,2,3,2,6,Poco usual,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,7,2,1,1,2,Poco usual,Insignificante,nume_cent,Número de centros por ACS
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,8,4,3,2,12,Probable,Moderada,nume_pece,Número de peces sembrados
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,9,1,1,1,1,Casi nulo,Insignificante,peso_smol,Peso smolt a la siembra (< 130 gr)
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Productivo,10,1,1,1,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Sanitario,11,3,2,1,6,Ocasional,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Sanitario,12,2,2,1,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Sanitario,13,1,1,1,1,Casi nulo,Insignificante,mort_acum,Mortalidad acumulada
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Sanitario,14,1,1,1,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Sanitario,15,4,3,2,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Sanitario,16,2,2,1,4,Poco usual,Menor,foul_jaul,Fouling de jaula
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Sanitario,17,1,1,1,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Sanitario,18,1,1,1,1,Casi nulo,Insignificante,cerc_gran,Cercanía a granja con enfermedad
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Sanitario,19,2,2,1,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Ambiental,20,2,1,1,2,Poco usual,Insignificante,temp_alta,Temperatura mar alta
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Ambiental,21,2,2,1,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Ambiental,22,3,3,2,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Ambiental,23,2,2,1,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+marcelo mansilla,marcelo.mansilla@cermaq.com,963349394,Región de Magallanes (XII),18,Ambiental,24,2,2,1,4,Poco usual,Menor,flore_alga,Florecimiento Algas Nocivas
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,1,1,1,1,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,2,1,1,1,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,3,5,2,2,10,Casi seguro,Menor,traf_mari,Tráfico marítimo
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,4,3,3,2,9,Ocasional,Moderada,epoc_siem,Época de siembra
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,5,4,2,1,8,Probable,Menor,etap_prod,Etapa productiva de barrios vecinos
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,6,4,3,2,12,Probable,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,7,2,4,3,8,Poco usual,Mayor,nume_cent,Número de centros por ACS
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,8,5,4,3,20,Casi seguro,Mayor,nume_pece,Número de peces sembrados
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,9,5,2,1,10,Casi seguro,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Productivo,10,1,3,2,3,Casi nulo,Moderada,cald_smol,Calidad de smolt
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Sanitario,11,1,4,3,4,Casi nulo,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Sanitario,12,4,4,3,16,Probable,Mayor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Sanitario,13,2,4,3,8,Poco usual,Mayor,mort_acum,Mortalidad acumulada
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Sanitario,14,1,2,1,2,Casi nulo,Menor,bano_anti,Baños antiparasitarios
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Sanitario,15,4,4,3,16,Probable,Mayor,cond_sani,Condición sanitaria de peces sembrados
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Sanitario,16,3,3,2,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Sanitario,17,1,2,2,2,Casi nulo,Menor,pres_cali,Presencia de Cáligus
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Sanitario,18,4,4,3,16,Probable,Mayor,cerc_gran,Cercanía a granja con enfermedad
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Sanitario,19,2,2,2,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Ambiental,20,3,4,3,12,Ocasional,Mayor,temp_alta,Temperatura mar alta
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Ambiental,21,3,1,1,3,Ocasional,Insignificante,temp_baja,Temperatura mar baja
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Ambiental,22,5,1,1,5,Casi seguro,Insignificante,pres_lobo,Presencia/ataque de lobos marinos
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Ambiental,23,5,5,3,25,Casi seguro,Catastrofica,sust_anae,Sustrato anaeróbico en centro
+HUMBERTO PROVOSTE ,hprovoste@sernapesca.cl,612411350,Región de Magallanes (XII),20,Ambiental,24,5,5,3,25,Casi seguro,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,1,1,1,1,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,2,1,1,1,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,3,5,3,2,15,Casi seguro,Moderada,traf_mari,Tráfico marítimo
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,4,2,2,1,4,Poco usual,Menor,epoc_siem,Época de siembra
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,5,3,3,2,9,Ocasional,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,6,3,3,2,9,Ocasional,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,7,4,4,2,16,Probable,Mayor,nume_cent,Número de centros por ACS
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,8,3,3,2,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,9,2,2,1,4,Poco usual,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Productivo,10,1,1,1,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Sanitario,11,1,2,1,2,Casi nulo,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Sanitario,12,5,3,2,15,Casi seguro,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Sanitario,13,4,3,2,12,Probable,Moderada,mort_acum,Mortalidad acumulada
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Sanitario,14,1,1,1,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Sanitario,15,3,2,1,6,Ocasional,Menor,cond_sani,Condición sanitaria de peces sembrados
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Sanitario,16,2,1,1,2,Poco usual,Insignificante,foul_jaul,Fouling de jaula
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Sanitario,17,1,1,1,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Sanitario,18,3,3,2,9,Ocasional,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Sanitario,19,2,1,1,2,Poco usual,Insignificante,pres_pece,Presencia de peces de descarte
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Ambiental,20,2,2,1,4,Poco usual,Menor,temp_alta,Temperatura mar alta
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Ambiental,21,2,2,1,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Ambiental,22,5,4,3,20,Casi seguro,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Ambiental,23,2,2,1,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+Gerardo Castillo,gerardo.castillo@cermaq.com,993437133,Región de Magallanes (XII),18,Ambiental,24,2,3,1,6,Poco usual,Moderada,flore_alga,Florecimiento Algas Nocivas
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,1,1,1,2,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,2,1,1,2,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,3,1,1,2,1,Casi nulo,Insignificante,traf_mari,Tráfico marítimo
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,4,2,2,2,4,Poco usual,Menor,epoc_siem,Época de siembra
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,5,1,1,2,1,Casi nulo,Insignificante,etap_prod,Etapa productiva de barrios vecinos
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,6,3,2,2,6,Ocasional,Menor,dens_cent,Densidad de centros de cultivo en barrio
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,7,3,3,2,9,Ocasional,Moderada,nume_cent,Número de centros por ACS
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,8,2,1,2,2,Poco usual,Insignificante,nume_pece,Número de peces sembrados
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,9,2,1,2,2,Poco usual,Insignificante,peso_smol,Peso smolt a la siembra (< 130 gr)
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Productivo,10,1,1,2,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Sanitario,11,2,2,2,4,Poco usual,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Sanitario,12,3,3,2,9,Ocasional,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Sanitario,13,2,2,2,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Sanitario,14,4,4,2,16,Probable,Mayor,bano_anti,Baños antiparasitarios
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Sanitario,15,2,2,2,4,Poco usual,Menor,cond_sani,Condición sanitaria de peces sembrados
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Sanitario,16,1,1,2,1,Casi nulo,Insignificante,foul_jaul,Fouling de jaula
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Sanitario,17,4,4,2,16,Probable,Mayor,pres_cali,Presencia de Cáligus
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Sanitario,18,3,3,2,9,Ocasional,Moderada,cerc_gran,Cercanía a granja con enfermedad
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Sanitario,19,2,2,2,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Ambiental,20,2,3,2,6,Poco usual,Moderada,temp_alta,Temperatura mar alta
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Ambiental,21,2,1,2,2,Poco usual,Insignificante,temp_baja,Temperatura mar baja
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Ambiental,22,3,4,2,12,Ocasional,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Ambiental,23,2,2,2,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+francisco manzanarez,francisco.manzanarez@cermaq.com,96350605,Región de Magallanes (XII),15,Ambiental,24,1,3,2,3,Casi nulo,Moderada,flore_alga,Florecimiento Algas Nocivas
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,2,1,1,3,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,3,3,4,3,12,Ocasional,Mayor,traf_mari,Tráfico marítimo
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,4,4,4,2,16,Probable,Mayor,epoc_siem,Época de siembra
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,5,3,3,2,9,Ocasional,Moderada,etap_prod,Etapa productiva de barrios vecinos
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,6,3,3,2,9,Ocasional,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,7,2,2,2,4,Poco usual,Menor,nume_cent,Número de centros por ACS
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,8,2,3,2,6,Poco usual,Moderada,nume_pece,Número de peces sembrados
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,9,5,2,3,10,Casi seguro,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Productivo,10,5,4,3,20,Casi seguro,Mayor,cald_smol,Calidad de smolt
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Sanitario,11,1,2,2,2,Casi nulo,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Sanitario,12,3,3,2,9,Ocasional,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Sanitario,13,3,3,2,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Sanitario,14,3,3,2,9,Ocasional,Moderada,bano_anti,Baños antiparasitarios
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Sanitario,15,4,4,2,16,Probable,Mayor,cond_sani,Condición sanitaria de peces sembrados
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Sanitario,16,3,4,3,12,Ocasional,Mayor,foul_jaul,Fouling de jaula
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Sanitario,17,3,3,2,9,Ocasional,Moderada,pres_cali,Presencia de Cáligus
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Sanitario,18,4,3,2,12,Probable,Moderada,cerc_gran,Cercanía a granja con enfermedad
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Sanitario,19,2,2,3,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Ambiental,21,4,3,3,12,Probable,Moderada,temp_baja,Temperatura mar baja
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Ambiental,22,4,3,3,12,Probable,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Ambiental,23,4,4,3,16,Probable,Mayor,sust_anae,Sustrato anaeróbico en centro
+jorge sierpe gallardo,jsierpe@hotmail.com,,Región de Magallanes (XII),30,Ambiental,24,4,5,3,20,Probable,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,1,4,4,2,16,Probable,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,2,4,4,2,16,Probable,Mayor,muel_carg,Muelles de carga o puertos de operacion
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,3,4,3,2,12,Probable,Moderada,traf_mari,Tráfico marítimo
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,4,4,3,2,12,Probable,Moderada,epoc_siem,Época de siembra
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,5,4,3,2,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,6,4,3,2,12,Probable,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,7,4,3,2,12,Probable,Moderada,nume_cent,Número de centros por ACS
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,8,4,3,2,12,Probable,Moderada,nume_pece,Número de peces sembrados
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Productivo,10,4,3,2,12,Probable,Moderada,cald_smol,Calidad de smolt
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Sanitario,11,4,3,2,12,Probable,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Sanitario,12,4,3,2,12,Probable,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Sanitario,13,4,3,2,12,Probable,Moderada,mort_acum,Mortalidad acumulada
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Sanitario,14,4,3,2,12,Probable,Moderada,bano_anti,Baños antiparasitarios
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Sanitario,15,4,3,2,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Sanitario,16,4,3,2,12,Probable,Moderada,foul_jaul,Fouling de jaula
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Sanitario,17,4,3,2,12,Probable,Moderada,pres_cali,Presencia de Cáligus
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Sanitario,18,4,3,2,12,Probable,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Sanitario,19,4,3,2,12,Probable,Moderada,pres_pece,Presencia de peces de descarte
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Ambiental,20,4,3,2,12,Probable,Moderada,temp_alta,Temperatura mar alta
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Ambiental,21,4,3,2,12,Probable,Moderada,temp_baja,Temperatura mar baja
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Ambiental,22,4,3,2,12,Probable,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Ambiental,23,4,3,2,12,Probable,Moderada,sust_anae,Sustrato anaeróbico en centro
+Roderich Barria,rbarria@sernapesca.cl,612411350,Región de Magallanes (XII),10,Ambiental,24,4,3,2,12,Probable,Moderada,flore_alga,Florecimiento Algas Nocivas
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,2,1,1,3,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,3,4,3,3,12,Probable,Moderada,traf_mari,Tráfico marítimo
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,4,4,3,3,12,Probable,Moderada,epoc_siem,Época de siembra
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,5,4,4,2,16,Probable,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,6,4,4,2,16,Probable,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,7,2,2,2,4,Poco usual,Menor,nume_cent,Número de centros por ACS
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,8,3,3,3,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,9,5,3,2,15,Casi seguro,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Productivo,10,1,1,3,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Sanitario,11,1,1,3,1,Casi nulo,Insignificante,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Sanitario,12,4,4,3,16,Probable,Mayor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Sanitario,13,5,4,3,20,Casi seguro,Mayor,mort_acum,Mortalidad acumulada
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Sanitario,14,1,1,3,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Sanitario,15,1,1,2,1,Casi nulo,Insignificante,cond_sani,Condición sanitaria de peces sembrados
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Sanitario,16,3,3,2,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Sanitario,17,1,1,3,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Sanitario,18,5,4,3,20,Casi seguro,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Sanitario,19,4,4,2,16,Probable,Mayor,pres_pece,Presencia de peces de descarte
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Ambiental,20,4,4,2,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Ambiental,21,4,2,2,8,Probable,Menor,temp_baja,Temperatura mar baja
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Ambiental,22,5,4,3,20,Casi seguro,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Ambiental,23,1,1,3,1,Casi nulo,Insignificante,sust_anae,Sustrato anaeróbico en centro
+Luis Azúa ,luisfco.azua@hotmail.com,982344766,Región de Magallanes (XII),11,Ambiental,24,1,1,3,1,Casi nulo,Insignificante,flore_alga,Florecimiento Algas Nocivas

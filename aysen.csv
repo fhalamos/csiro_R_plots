@@ -1,0 +1,313 @@
+Nombre y apellido,Email,Teléfono,Región,Años de trabajo en salmonicultura,Tipo Factor,Factor,Probabilidad,Consecuencia,Confianza,Riesgo,Probabilidad_n,Consecuencia_n,Codigo,Nombre factor
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,1,4,3,2,12,Probable,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,2,2,2,3,4,Poco usual,Menor,muel_carg,Muelles de carga o puertos de operacion
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,3,4,4,2,16,Probable,Mayor,traf_mari,Tráfico marítimo
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,4,5,4,3,20,Casi seguro,Mayor,epoc_siem,Época de siembra
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,5,5,4,3,20,Casi seguro,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,6,5,4,3,20,Casi seguro,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,7,5,4,3,20,Casi seguro,Mayor,nume_cent,Número de centros por ACS
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,8,3,3,2,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Productivo,10,4,4,2,16,Probable,Mayor,cald_smol,Calidad de smolt
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Sanitario,11,4,5,3,20,Probable,Catastrofica,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Sanitario,12,2,2,2,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Sanitario,13,2,2,2,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Sanitario,14,4,4,3,16,Probable,Mayor,bano_anti,Baños antiparasitarios
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Sanitario,15,4,4,2,16,Probable,Mayor,cond_sani,Condición sanitaria de peces sembrados
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Sanitario,16,5,4,3,20,Casi seguro,Mayor,foul_jaul,Fouling de jaula
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Sanitario,17,4,4,3,16,Probable,Mayor,pres_cali,Presencia de Cáligus
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Sanitario,18,3,3,2,9,Ocasional,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Sanitario,19,4,4,3,16,Probable,Mayor,pres_pece,Presencia de peces de descarte
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Ambiental,21,3,3,2,9,Ocasional,Moderada,temp_baja,Temperatura mar baja
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Ambiental,22,4,4,3,16,Probable,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Ambiental,23,4,4,2,16,Probable,Mayor,sust_anae,Sustrato anaeróbico en centro
+Jorge Padilla Trujillo,jpadilla@sernapesca.cl,672243605,Región de Aysen (XI),10,Ambiental,24,5,5,3,25,Casi seguro,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,1,5,4,3,20,Casi seguro,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,2,3,2,3,6,Ocasional,Menor,muel_carg,Muelles de carga o puertos de operacion
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,3,3,2,2,6,Ocasional,Menor,traf_mari,Tráfico marítimo
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,4,4,4,3,16,Probable,Mayor,epoc_siem,Época de siembra
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,5,4,4,3,16,Probable,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,6,5,4,3,20,Casi seguro,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,7,5,4,3,20,Casi seguro,Mayor,nume_cent,Número de centros por ACS
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,8,5,4,3,20,Casi seguro,Mayor,nume_pece,Número de peces sembrados
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,9,4,3,3,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Productivo,10,1,5,3,5,Casi nulo,Catastrofica,cald_smol,Calidad de smolt
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Sanitario,11,4,4,3,16,Probable,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Sanitario,12,4,4,3,16,Probable,Mayor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Sanitario,13,4,4,3,16,Probable,Mayor,mort_acum,Mortalidad acumulada
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Sanitario,14,2,2,3,4,Poco usual,Menor,bano_anti,Baños antiparasitarios
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Sanitario,15,4,2,3,8,Probable,Menor,cond_sani,Condición sanitaria de peces sembrados
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Sanitario,16,3,3,3,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Sanitario,17,2,3,3,6,Poco usual,Moderada,pres_cali,Presencia de Cáligus
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Sanitario,18,5,4,3,20,Casi seguro,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Sanitario,19,4,2,3,8,Probable,Menor,pres_pece,Presencia de peces de descarte
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Ambiental,21,2,1,3,2,Poco usual,Insignificante,temp_baja,Temperatura mar baja
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Ambiental,22,4,4,3,16,Probable,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Ambiental,23,3,3,2,9,Ocasional,Moderada,sust_anae,Sustrato anaeróbico en centro
+Christofer Heyer,cheyer@sernapesca.cl,,Región de Aysen (XI),7,Ambiental,24,3,5,3,15,Ocasional,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,1,3,3,3,9,Ocasional,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,2,3,3,3,9,Ocasional,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,3,3,3,3,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,4,4,4,3,16,Probable,Mayor,epoc_siem,Época de siembra
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,5,3,3,2,9,Ocasional,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,6,4,4,3,16,Probable,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,7,4,4,3,16,Probable,Mayor,nume_cent,Número de centros por ACS
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,8,3,3,3,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,9,3,3,3,9,Ocasional,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Productivo,10,4,3,3,12,Probable,Moderada,cald_smol,Calidad de smolt
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Sanitario,11,5,4,3,20,Casi seguro,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Sanitario,12,2,2,2,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Sanitario,13,2,2,2,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Sanitario,14,3,3,3,9,Ocasional,Moderada,bano_anti,Baños antiparasitarios
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Sanitario,15,3,3,3,9,Ocasional,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Sanitario,16,3,3,3,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Sanitario,17,3,3,3,9,Ocasional,Moderada,pres_cali,Presencia de Cáligus
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Sanitario,18,4,3,3,12,Probable,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Sanitario,19,3,3,3,9,Ocasional,Moderada,pres_pece,Presencia de peces de descarte
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Ambiental,21,2,2,3,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Ambiental,22,3,3,3,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Ambiental,23,4,3,3,12,Probable,Moderada,sust_anae,Sustrato anaeróbico en centro
+Cyntia Barrera,cbarrera@sernapesca.cl,984290066,Región de Aysen (XI),10,Ambiental,24,5,5,3,25,Casi seguro,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,1,2,2,2,4,Poco usual,Menor,cent_acop,Centros de acopio o plantas de proceso
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,2,2,2,2,4,Poco usual,Menor,muel_carg,Muelles de carga o puertos de operacion
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,3,4,2,3,8,Probable,Menor,traf_mari,Tráfico marítimo
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,4,3,3,3,9,Ocasional,Moderada,epoc_siem,Época de siembra
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,5,3,2,2,6,Ocasional,Menor,etap_prod,Etapa productiva de barrios vecinos
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,6,3,3,3,9,Ocasional,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,7,3,3,3,9,Ocasional,Moderada,nume_cent,Número de centros por ACS
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,8,4,3,3,12,Probable,Moderada,nume_pece,Número de peces sembrados
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,9,3,2,3,6,Ocasional,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Productivo,10,1,2,2,2,Casi nulo,Menor,cald_smol,Calidad de smolt
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Sanitario,11,3,4,2,12,Ocasional,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Sanitario,12,2,2,2,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Sanitario,13,2,2,2,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Sanitario,14,2,2,3,4,Poco usual,Menor,bano_anti,Baños antiparasitarios
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Sanitario,15,3,2,2,6,Ocasional,Menor,cond_sani,Condición sanitaria de peces sembrados
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Sanitario,16,3,2,2,6,Ocasional,Menor,foul_jaul,Fouling de jaula
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Sanitario,17,2,2,2,4,Poco usual,Menor,pres_cali,Presencia de Cáligus
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Sanitario,18,3,2,2,6,Ocasional,Menor,cerc_gran,Cercanía a granja con enfermedad
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Sanitario,19,2,2,2,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Ambiental,20,4,3,2,12,Probable,Moderada,temp_alta,Temperatura mar alta
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Ambiental,21,3,2,2,6,Ocasional,Menor,temp_baja,Temperatura mar baja
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Ambiental,22,3,4,3,12,Ocasional,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Ambiental,23,1,3,2,3,Casi nulo,Moderada,sust_anae,Sustrato anaeróbico en centro
+Cristian Oyarzo,coyarzo@sernapesca.cl,965617067,Región de Aysen (XI),4,Ambiental,24,2,4,3,8,Poco usual,Mayor,flore_alga,Florecimiento Algas Nocivas
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,1,1,1,1,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,2,1,1,1,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,3,3,2,1,6,Ocasional,Menor,traf_mari,Tráfico marítimo
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,4,3,3,2,9,Ocasional,Moderada,epoc_siem,Época de siembra
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,5,2,2,1,4,Poco usual,Menor,etap_prod,Etapa productiva de barrios vecinos
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,6,3,2,1,6,Ocasional,Menor,dens_cent,Densidad de centros de cultivo en barrio
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,7,3,3,2,9,Ocasional,Moderada,nume_cent,Número de centros por ACS
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,8,3,2,2,6,Ocasional,Menor,nume_pece,Número de peces sembrados
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,9,4,1,2,4,Probable,Insignificante,peso_smol,Peso smolt a la siembra (< 130 gr)
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Productivo,10,1,1,1,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Sanitario,11,4,3,2,12,Probable,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Sanitario,12,4,3,2,12,Probable,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Sanitario,13,2,2,2,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Sanitario,14,2,1,2,2,Poco usual,Insignificante,bano_anti,Baños antiparasitarios
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Sanitario,15,2,3,2,6,Poco usual,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Sanitario,16,2,2,2,4,Poco usual,Menor,foul_jaul,Fouling de jaula
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Sanitario,17,2,2,2,4,Poco usual,Menor,pres_cali,Presencia de Cáligus
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Sanitario,18,3,3,2,9,Ocasional,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Sanitario,19,2,2,2,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Ambiental,20,2,2,2,4,Poco usual,Menor,temp_alta,Temperatura mar alta
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Ambiental,21,2,2,2,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Ambiental,22,3,3,2,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Ambiental,23,1,1,2,1,Casi nulo,Insignificante,sust_anae,Sustrato anaeróbico en centro
+Fabian Villarroel,fvillarroel@nissui.cl,951497924,Región de Aysen (XI),5,Ambiental,24,3,4,2,12,Ocasional,Mayor,flore_alga,Florecimiento Algas Nocivas
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,1,2,3,2,6,Poco usual,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,2,1,2,2,2,Casi nulo,Menor,muel_carg,Muelles de carga o puertos de operacion
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,3,3,3,2,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,4,4,3,2,12,Probable,Moderada,epoc_siem,Época de siembra
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,5,2,2,2,4,Poco usual,Menor,etap_prod,Etapa productiva de barrios vecinos
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,6,4,3,2,12,Probable,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,7,3,3,2,9,Ocasional,Moderada,nume_cent,Número de centros por ACS
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,8,4,3,2,12,Probable,Moderada,nume_pece,Número de peces sembrados
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Productivo,10,3,2,1,6,Ocasional,Menor,cald_smol,Calidad de smolt
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Sanitario,11,4,4,2,16,Probable,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Sanitario,12,3,3,1,9,Ocasional,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Sanitario,13,2,3,2,6,Poco usual,Moderada,mort_acum,Mortalidad acumulada
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Sanitario,14,2,2,2,4,Poco usual,Menor,bano_anti,Baños antiparasitarios
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Sanitario,15,3,3,2,9,Ocasional,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Sanitario,16,4,3,2,12,Probable,Moderada,foul_jaul,Fouling de jaula
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Sanitario,17,2,2,2,4,Poco usual,Menor,pres_cali,Presencia de Cáligus
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Sanitario,18,3,3,2,9,Ocasional,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Sanitario,19,3,2,2,6,Ocasional,Menor,pres_pece,Presencia de peces de descarte
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Ambiental,20,4,4,2,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Ambiental,21,3,2,2,6,Ocasional,Menor,temp_baja,Temperatura mar baja
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Ambiental,22,4,3,2,12,Probable,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Ambiental,23,3,3,1,9,Ocasional,Moderada,sust_anae,Sustrato anaeróbico en centro
+Daniel Galleguillos,dgalleguillos@sernapesca.cl,979665615,Región de Aysen (XI),7,Ambiental,24,4,4,2,16,Probable,Mayor,flore_alga,Florecimiento Algas Nocivas
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,1,4,3,3,12,Probable,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,2,2,2,2,4,Poco usual,Menor,muel_carg,Muelles de carga o puertos de operacion
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,3,2,2,1,4,Poco usual,Menor,traf_mari,Tráfico marítimo
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,4,4,3,3,12,Probable,Moderada,epoc_siem,Época de siembra
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,5,4,3,2,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,6,4,3,2,12,Probable,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,7,4,3,2,12,Probable,Moderada,nume_cent,Número de centros por ACS
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,8,4,3,2,12,Probable,Moderada,nume_pece,Número de peces sembrados
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,9,3,2,2,6,Ocasional,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Productivo,10,4,3,3,12,Probable,Moderada,cald_smol,Calidad de smolt
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Sanitario,11,5,4,3,20,Casi seguro,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Sanitario,12,4,3,2,12,Probable,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Sanitario,13,4,3,2,12,Probable,Moderada,mort_acum,Mortalidad acumulada
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Sanitario,14,4,4,2,16,Probable,Mayor,bano_anti,Baños antiparasitarios
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Sanitario,15,4,3,3,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Sanitario,16,3,3,3,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Sanitario,17,4,3,2,12,Probable,Moderada,pres_cali,Presencia de Cáligus
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Sanitario,18,5,4,3,20,Casi seguro,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Sanitario,19,3,3,2,9,Ocasional,Moderada,pres_pece,Presencia de peces de descarte
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Ambiental,20,4,3,3,12,Probable,Moderada,temp_alta,Temperatura mar alta
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Ambiental,21,3,2,2,6,Ocasional,Menor,temp_baja,Temperatura mar baja
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Ambiental,22,3,3,1,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Ambiental,23,2,2,2,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+Francisco Vallejos,francisco.vallejos@blumar.com,56998871197,Región de Aysen (XI),20,Ambiental,24,5,5,3,25,Casi seguro,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,1,2,3,2,6,Poco usual,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,2,2,2,3,4,Poco usual,Menor,muel_carg,Muelles de carga o puertos de operacion
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,3,2,2,2,4,Poco usual,Menor,traf_mari,Tráfico marítimo
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,4,2,2,3,4,Poco usual,Menor,epoc_siem,Época de siembra
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,5,4,4,3,16,Probable,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,6,5,5,3,25,Casi seguro,Catastrofica,dens_cent,Densidad de centros de cultivo en barrio
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,7,4,4,3,16,Probable,Mayor,nume_cent,Número de centros por ACS
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,8,3,3,3,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,9,3,3,2,9,Ocasional,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Productivo,10,5,4,3,20,Casi seguro,Mayor,cald_smol,Calidad de smolt
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Sanitario,11,5,4,3,20,Casi seguro,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Sanitario,12,5,4,3,20,Casi seguro,Mayor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Sanitario,13,5,4,3,20,Casi seguro,Mayor,mort_acum,Mortalidad acumulada
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Sanitario,14,5,4,3,20,Casi seguro,Mayor,bano_anti,Baños antiparasitarios
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Sanitario,15,3,3,2,9,Ocasional,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Sanitario,16,5,4,3,20,Casi seguro,Mayor,foul_jaul,Fouling de jaula
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Sanitario,17,5,5,3,25,Casi seguro,Catastrofica,pres_cali,Presencia de Cáligus
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Sanitario,18,5,4,3,20,Casi seguro,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Sanitario,19,5,4,3,20,Casi seguro,Mayor,pres_pece,Presencia de peces de descarte
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Ambiental,20,5,4,3,20,Casi seguro,Mayor,temp_alta,Temperatura mar alta
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Ambiental,21,3,3,3,9,Ocasional,Moderada,temp_baja,Temperatura mar baja
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Ambiental,22,5,4,3,20,Casi seguro,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Ambiental,23,2,2,3,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+Víctor Durán ,victor.duran@marineharvest.com,975891723,Región de Aysen (XI),15,Ambiental,24,5,5,3,25,Casi seguro,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,1,1,5,3,5,Casi nulo,Catastrofica,cent_acop,Centros de acopio o plantas de proceso
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,2,2,4,2,8,Poco usual,Mayor,muel_carg,Muelles de carga o puertos de operacion
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,3,4,4,3,16,Probable,Mayor,traf_mari,Tráfico marítimo
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,4,5,4,3,20,Casi seguro,Mayor,epoc_siem,Época de siembra
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,5,5,4,3,20,Casi seguro,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,6,3,3,2,9,Ocasional,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,7,4,4,3,16,Probable,Mayor,nume_cent,Número de centros por ACS
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,8,3,3,2,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,9,3,4,3,12,Ocasional,Mayor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Productivo,10,3,3,3,9,Ocasional,Moderada,cald_smol,Calidad de smolt
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Sanitario,11,3,4,3,12,Ocasional,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Sanitario,12,5,4,3,20,Casi seguro,Mayor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Sanitario,13,5,4,3,20,Casi seguro,Mayor,mort_acum,Mortalidad acumulada
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Sanitario,14,4,3,3,12,Probable,Moderada,bano_anti,Baños antiparasitarios
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Sanitario,15,4,3,3,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Sanitario,16,5,4,3,20,Casi seguro,Mayor,foul_jaul,Fouling de jaula
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Sanitario,17,4,4,3,16,Probable,Mayor,pres_cali,Presencia de Cáligus
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Sanitario,18,3,4,3,12,Ocasional,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Sanitario,19,4,4,3,16,Probable,Mayor,pres_pece,Presencia de peces de descarte
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Ambiental,20,4,5,3,20,Probable,Catastrofica,temp_alta,Temperatura mar alta
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Ambiental,21,1,2,2,2,Casi nulo,Menor,temp_baja,Temperatura mar baja
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Ambiental,22,4,5,3,20,Probable,Catastrofica,pres_lobo,Presencia/ataque de lobos marinos
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Ambiental,23,2,2,3,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+Julio Barria,julio.barria@aquachile.com,,Región de Aysen (XI),10,Ambiental,24,3,5,3,15,Ocasional,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,2,1,1,3,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,3,4,3,2,12,Probable,Moderada,traf_mari,Tráfico marítimo
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,4,5,4,3,20,Casi seguro,Mayor,epoc_siem,Época de siembra
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,5,4,3,2,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,6,4,3,3,12,Probable,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,7,5,4,3,20,Casi seguro,Mayor,nume_cent,Número de centros por ACS
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,8,3,3,2,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,9,2,2,2,4,Poco usual,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Productivo,10,4,3,3,12,Probable,Moderada,cald_smol,Calidad de smolt
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Sanitario,11,5,5,3,25,Casi seguro,Catastrofica,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Sanitario,12,4,3,3,12,Probable,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Sanitario,13,4,3,2,12,Probable,Moderada,mort_acum,Mortalidad acumulada
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Sanitario,14,4,3,3,12,Probable,Moderada,bano_anti,Baños antiparasitarios
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Sanitario,15,3,2,2,6,Ocasional,Menor,cond_sani,Condición sanitaria de peces sembrados
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Sanitario,16,4,4,3,16,Probable,Mayor,foul_jaul,Fouling de jaula
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Sanitario,17,4,4,3,16,Probable,Mayor,pres_cali,Presencia de Cáligus
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Sanitario,18,5,4,3,20,Casi seguro,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Sanitario,19,3,2,2,6,Ocasional,Menor,pres_pece,Presencia de peces de descarte
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Ambiental,20,5,4,3,20,Casi seguro,Mayor,temp_alta,Temperatura mar alta
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Ambiental,21,2,1,3,2,Poco usual,Insignificante,temp_baja,Temperatura mar baja
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Ambiental,22,5,5,3,25,Casi seguro,Catastrofica,pres_lobo,Presencia/ataque de lobos marinos
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Ambiental,23,4,4,3,16,Probable,Mayor,sust_anae,Sustrato anaeróbico en centro
+Claudio Vergara,cvergara@friosur.cl,93461553,Región de Aysen (XI),7,Ambiental,24,4,4,2,16,Probable,Mayor,flore_alga,Florecimiento Algas Nocivas
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,1,5,4,3,20,Casi seguro,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,2,2,2,1,4,Poco usual,Menor,muel_carg,Muelles de carga o puertos de operacion
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,3,4,3,2,12,Probable,Moderada,traf_mari,Tráfico marítimo
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,4,4,4,3,16,Probable,Mayor,epoc_siem,Época de siembra
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,5,4,3,2,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,6,3,4,3,12,Ocasional,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,7,4,3,2,12,Probable,Moderada,nume_cent,Número de centros por ACS
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,8,3,4,3,12,Ocasional,Mayor,nume_pece,Número de peces sembrados
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,9,3,3,2,9,Ocasional,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Productivo,10,3,3,2,9,Ocasional,Moderada,cald_smol,Calidad de smolt
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Sanitario,11,3,4,3,12,Ocasional,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Sanitario,12,3,3,2,9,Ocasional,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Sanitario,13,3,2,1,6,Ocasional,Menor,mort_acum,Mortalidad acumulada
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Sanitario,14,3,3,2,9,Ocasional,Moderada,bano_anti,Baños antiparasitarios
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Sanitario,15,2,2,1,4,Poco usual,Menor,cond_sani,Condición sanitaria de peces sembrados
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Sanitario,16,3,3,2,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Sanitario,17,3,4,3,12,Ocasional,Mayor,pres_cali,Presencia de Cáligus
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Sanitario,18,3,4,3,12,Ocasional,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Sanitario,19,2,4,2,8,Poco usual,Mayor,pres_pece,Presencia de peces de descarte
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Ambiental,20,3,4,3,12,Ocasional,Mayor,temp_alta,Temperatura mar alta
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Ambiental,21,2,2,1,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Ambiental,22,3,3,2,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Ambiental,23,3,3,2,9,Ocasional,Moderada,sust_anae,Sustrato anaeróbico en centro
+Pedro Acuña Moenne,pedro.acuna@blumar.com,953749152,Región de Aysen (XI),15,Ambiental,24,3,4,3,12,Ocasional,Mayor,flore_alga,Florecimiento Algas Nocivas
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,1,4,3,2,12,Probable,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,2,4,3,2,12,Probable,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,3,5,2,1,10,Casi seguro,Menor,traf_mari,Tráfico marítimo
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,4,4,4,2,16,Probable,Mayor,epoc_siem,Época de siembra
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,5,5,3,3,15,Casi seguro,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,6,4,4,2,16,Probable,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,7,4,3,2,12,Probable,Moderada,nume_cent,Número de centros por ACS
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,8,3,2,2,6,Ocasional,Menor,nume_pece,Número de peces sembrados
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,9,3,2,2,6,Ocasional,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Productivo,10,4,3,2,12,Probable,Moderada,cald_smol,Calidad de smolt
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Sanitario,11,4,3,3,12,Probable,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Sanitario,12,3,4,3,12,Ocasional,Mayor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Sanitario,13,3,3,2,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Sanitario,14,4,3,2,12,Probable,Moderada,bano_anti,Baños antiparasitarios
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Sanitario,15,3,3,2,9,Ocasional,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Sanitario,16,5,4,3,20,Casi seguro,Mayor,foul_jaul,Fouling de jaula
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Sanitario,17,4,3,3,12,Probable,Moderada,pres_cali,Presencia de Cáligus
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Sanitario,18,4,3,2,12,Probable,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Sanitario,19,4,3,2,12,Probable,Moderada,pres_pece,Presencia de peces de descarte
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Ambiental,20,5,4,3,20,Casi seguro,Mayor,temp_alta,Temperatura mar alta
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Ambiental,21,2,2,3,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Ambiental,22,4,4,3,16,Probable,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Ambiental,23,4,4,2,16,Probable,Mayor,sust_anae,Sustrato anaeróbico en centro
+Claudio Arcos,claudio.arcos@marineharvest.com,951891856,Región de Aysen (XI),15,Ambiental,24,5,5,3,25,Casi seguro,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,2,2,2,2,4,Poco usual,Menor,muel_carg,Muelles de carga o puertos de operacion
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,3,3,3,3,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,4,3,4,3,12,Ocasional,Mayor,epoc_siem,Época de siembra
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,5,4,3,3,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,6,3,4,3,12,Ocasional,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,7,3,4,3,12,Ocasional,Mayor,nume_cent,Número de centros por ACS
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,8,3,3,2,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,9,3,4,3,12,Ocasional,Mayor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Productivo,10,2,4,3,8,Poco usual,Mayor,cald_smol,Calidad de smolt
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Sanitario,11,3,3,3,9,Ocasional,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Sanitario,12,3,3,2,9,Ocasional,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Sanitario,13,3,3,3,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Sanitario,14,3,3,3,9,Ocasional,Moderada,bano_anti,Baños antiparasitarios
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Sanitario,15,3,4,3,12,Ocasional,Mayor,cond_sani,Condición sanitaria de peces sembrados
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Sanitario,16,3,3,2,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Sanitario,17,3,4,3,12,Ocasional,Mayor,pres_cali,Presencia de Cáligus
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Sanitario,18,3,4,3,12,Ocasional,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Sanitario,19,4,3,3,12,Probable,Moderada,pres_pece,Presencia de peces de descarte
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Ambiental,20,4,5,3,20,Probable,Catastrofica,temp_alta,Temperatura mar alta
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Ambiental,21,1,1,3,1,Casi nulo,Insignificante,temp_baja,Temperatura mar baja
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Ambiental,22,4,4,3,16,Probable,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Ambiental,23,2,2,1,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+Felipe Andrés Jimenez Pizarro,fjimenezp@agrosuper.com,,Región de Aysen (XI),5,Ambiental,24,4,5,3,20,Probable,Catastrofica,flore_alga,Florecimiento Algas Nocivas

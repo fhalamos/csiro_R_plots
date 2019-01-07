@@ -1,0 +1,457 @@
+Nombre y apellido,Email,Teléfono,Región,Años de trabajo en salmonicultura,Tipo Factor,Factor,Probabilidad,Consecuencia,Confianza,Riesgo,Probabilidad_n,Consecuencia_n,Codigo,Nombre factor
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,1,2,4,2,8,Poco usual,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,2,4,4,2,16,Probable,Mayor,muel_carg,Muelles de carga o puertos de operacion
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,3,4,4,3,16,Probable,Mayor,traf_mari,Tráfico marítimo
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,4,5,4,3,20,Casi seguro,Mayor,epoc_siem,Época de siembra
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,5,3,2,2,6,Ocasional,Menor,etap_prod,Etapa productiva de barrios vecinos
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,6,5,3,3,15,Casi seguro,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,7,5,4,3,20,Casi seguro,Mayor,nume_cent,Número de centros por ACS
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,8,4,4,3,16,Probable,Mayor,nume_pece,Número de peces sembrados
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Productivo,10,4,3,2,12,Probable,Moderada,cald_smol,Calidad de smolt
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Sanitario,11,4,4,3,16,Probable,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Sanitario,12,5,4,3,20,Casi seguro,Mayor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Sanitario,13,3,3,2,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Sanitario,14,4,4,3,16,Probable,Mayor,bano_anti,Baños antiparasitarios
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Sanitario,15,5,4,3,20,Casi seguro,Mayor,cond_sani,Condición sanitaria de peces sembrados
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Sanitario,16,4,3,2,12,Probable,Moderada,foul_jaul,Fouling de jaula
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Sanitario,17,5,4,3,20,Casi seguro,Mayor,pres_cali,Presencia de Cáligus
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Sanitario,18,4,4,3,16,Probable,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Sanitario,19,4,3,2,12,Probable,Moderada,pres_pece,Presencia de peces de descarte
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Ambiental,21,4,2,3,8,Probable,Menor,temp_baja,Temperatura mar baja
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Ambiental,22,4,3,3,12,Probable,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Ambiental,23,2,3,3,6,Poco usual,Moderada,sust_anae,Sustrato anaeróbico en centro
+Antonio Salinas,asalinas@sernapesca.cl,65220013,Región de Los Lagos (X),10,Ambiental,24,4,5,3,20,Probable,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,1,2,4,2,8,Poco usual,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,2,4,4,2,16,Probable,Mayor,muel_carg,Muelles de carga o puertos de operacion
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,3,4,4,3,16,Probable,Mayor,traf_mari,Tráfico marítimo
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,4,5,4,3,20,Casi seguro,Mayor,epoc_siem,Época de siembra
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,5,3,2,2,6,Ocasional,Menor,etap_prod,Etapa productiva de barrios vecinos
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,6,5,3,3,15,Casi seguro,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,7,5,4,3,20,Casi seguro,Mayor,nume_cent,Número de centros por ACS
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,8,4,4,3,16,Probable,Mayor,nume_pece,Número de peces sembrados
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,10,4,3,2,12,Probable,Moderada,cald_smol,Calidad de smolt
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,11,4,4,3,16,Probable,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,12,5,4,3,20,Casi seguro,Mayor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,13,3,3,2,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,14,4,4,3,16,Probable,Mayor,bano_anti,Baños antiparasitarios
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,15,5,4,3,20,Casi seguro,Mayor,cond_sani,Condición sanitaria de peces sembrados
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,16,4,3,2,12,Probable,Moderada,foul_jaul,Fouling de jaula
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,17,5,4,3,20,Casi seguro,Mayor,pres_cali,Presencia de Cáligus
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,18,4,4,3,16,Probable,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,19,4,3,2,12,Probable,Moderada,pres_pece,Presencia de peces de descarte
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,21,4,1,3,4,Probable,Insignificante,temp_baja,Temperatura mar baja
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,22,4,3,3,12,Probable,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,23,2,3,3,6,Poco usual,Moderada,sust_anae,Sustrato anaeróbico en centro
+Cristian Cruces,ccruces@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,24,4,5,3,20,Probable,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,1,4,4,3,16,Probable,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,2,4,3,3,12,Probable,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,3,3,3,3,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,4,5,4,3,20,Casi seguro,Mayor,epoc_siem,Época de siembra
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,5,4,4,3,16,Probable,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,6,3,3,3,9,Ocasional,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,7,4,3,3,12,Probable,Moderada,nume_cent,Número de centros por ACS
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,8,4,3,3,12,Probable,Moderada,nume_pece,Número de peces sembrados
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,9,3,3,3,9,Ocasional,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Productivo,10,1,1,3,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Sanitario,11,4,4,3,16,Probable,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Sanitario,12,4,3,3,12,Probable,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Sanitario,13,3,3,3,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Sanitario,14,1,1,3,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Sanitario,15,4,4,3,16,Probable,Mayor,cond_sani,Condición sanitaria de peces sembrados
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Sanitario,16,3,3,3,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Sanitario,17,1,1,3,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Sanitario,18,3,3,3,9,Ocasional,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Sanitario,19,3,3,3,9,Ocasional,Moderada,pres_pece,Presencia de peces de descarte
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Ambiental,21,2,2,3,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Ambiental,22,3,4,3,12,Ocasional,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Ambiental,23,1,1,3,1,Casi nulo,Insignificante,sust_anae,Sustrato anaeróbico en centro
+Osvaldo Sandoval,osandoval@sernapesca.cl,652220013,Región de Los Lagos (X),10,Ambiental,24,4,5,3,20,Probable,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,1,2,2,3,4,Poco usual,Menor,cent_acop,Centros de acopio o plantas de proceso
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,2,2,3,2,6,Poco usual,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,3,4,4,2,16,Probable,Mayor,traf_mari,Tráfico marítimo
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,4,4,4,3,16,Probable,Mayor,epoc_siem,Época de siembra
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,5,3,3,3,9,Ocasional,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,6,5,4,3,20,Casi seguro,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,7,5,4,3,20,Casi seguro,Mayor,nume_cent,Número de centros por ACS
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,8,3,3,3,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,9,4,3,3,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Productivo,10,5,4,3,20,Casi seguro,Mayor,cald_smol,Calidad de smolt
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,11,3,3,3,9,Ocasional,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,12,4,2,1,8,Probable,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,13,4,2,2,8,Probable,Menor,mort_acum,Mortalidad acumulada
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,14,4,3,3,12,Probable,Moderada,bano_anti,Baños antiparasitarios
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,15,4,3,2,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,16,3,4,3,12,Ocasional,Mayor,foul_jaul,Fouling de jaula
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,17,4,4,3,16,Probable,Mayor,pres_cali,Presencia de Cáligus
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,18,3,4,2,12,Ocasional,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Sanitario,19,4,4,3,16,Probable,Mayor,pres_pece,Presencia de peces de descarte
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,21,2,2,2,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,22,5,3,3,15,Casi seguro,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,23,3,3,2,9,Ocasional,Moderada,sust_anae,Sustrato anaeróbico en centro
+Humberto Gonzalez,hgonzalez@sernapesca.cl,,Región de Los Lagos (X),10,Ambiental,24,3,5,3,15,Ocasional,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,1,2,2,2,4,Poco usual,Menor,cent_acop,Centros de acopio o plantas de proceso
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,2,3,3,2,9,Ocasional,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,3,3,3,2,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,4,4,4,2,16,Probable,Mayor,epoc_siem,Época de siembra
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,5,4,3,2,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,6,4,4,2,16,Probable,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,7,4,4,2,16,Probable,Mayor,nume_cent,Número de centros por ACS
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,8,4,3,2,12,Probable,Moderada,nume_pece,Número de peces sembrados
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,9,4,3,1,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Productivo,10,3,3,2,9,Ocasional,Moderada,cald_smol,Calidad de smolt
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Sanitario,11,4,3,1,12,Probable,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Sanitario,12,4,3,1,12,Probable,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Sanitario,13,4,4,1,16,Probable,Mayor,mort_acum,Mortalidad acumulada
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Sanitario,14,3,3,1,9,Ocasional,Moderada,bano_anti,Baños antiparasitarios
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Sanitario,15,4,3,1,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Sanitario,16,3,3,2,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Sanitario,17,4,3,2,12,Probable,Moderada,pres_cali,Presencia de Cáligus
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Sanitario,18,4,3,1,12,Probable,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Sanitario,19,4,3,2,12,Probable,Moderada,pres_pece,Presencia de peces de descarte
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Ambiental,21,1,1,3,1,Casi nulo,Insignificante,temp_baja,Temperatura mar baja
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Ambiental,22,3,2,3,6,Ocasional,Menor,pres_lobo,Presencia/ataque de lobos marinos
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Ambiental,23,1,1,2,1,Casi nulo,Insignificante,sust_anae,Sustrato anaeróbico en centro
+Pablo Tapia Allende,ptapia@sernapesca.cl,,Región de Los Lagos (X),0,Ambiental,24,4,4,3,16,Probable,Mayor,flore_alga,Florecimiento Algas Nocivas
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,2,1,1,3,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,3,3,3,2,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,4,3,3,2,9,Ocasional,Moderada,epoc_siem,Época de siembra
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,5,3,3,2,9,Ocasional,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,6,1,1,3,1,Casi nulo,Insignificante,dens_cent,Densidad de centros de cultivo en barrio
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,7,1,1,3,1,Casi nulo,Insignificante,nume_cent,Número de centros por ACS
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,8,1,1,3,1,Casi nulo,Insignificante,nume_pece,Número de peces sembrados
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,9,1,2,3,2,Casi nulo,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Productivo,10,1,1,3,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Sanitario,11,1,2,3,2,Casi nulo,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Sanitario,12,2,2,3,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Sanitario,13,2,2,3,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Sanitario,14,2,2,3,4,Poco usual,Menor,bano_anti,Baños antiparasitarios
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Sanitario,15,1,1,3,1,Casi nulo,Insignificante,cond_sani,Condición sanitaria de peces sembrados
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Sanitario,16,2,2,3,4,Poco usual,Menor,foul_jaul,Fouling de jaula
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Sanitario,17,2,2,3,4,Poco usual,Menor,pres_cali,Presencia de Cáligus
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Sanitario,18,1,1,3,1,Casi nulo,Insignificante,cerc_gran,Cercanía a granja con enfermedad
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Sanitario,19,2,2,3,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Ambiental,20,2,2,3,4,Poco usual,Menor,temp_alta,Temperatura mar alta
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Ambiental,21,1,2,3,2,Casi nulo,Menor,temp_baja,Temperatura mar baja
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Ambiental,22,3,3,3,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Ambiental,23,1,1,3,1,Casi nulo,Insignificante,sust_anae,Sustrato anaeróbico en centro
+Natalia Cámpora,ncampora@sernapesca.cl,973393989,Región de Los Lagos (X),5,Ambiental,24,3,3,3,9,Ocasional,Moderada,flore_alga,Florecimiento Algas Nocivas
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,1,1,1,3,1,Casi nulo,Insignificante,cent_acop,Centros de acopio o plantas de proceso
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,2,1,1,3,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,3,3,3,2,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,4,4,3,2,12,Probable,Moderada,epoc_siem,Época de siembra
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,5,2,2,2,4,Poco usual,Menor,etap_prod,Etapa productiva de barrios vecinos
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,6,1,1,3,1,Casi nulo,Insignificante,dens_cent,Densidad de centros de cultivo en barrio
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,7,1,1,3,1,Casi nulo,Insignificante,nume_cent,Número de centros por ACS
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,8,4,3,2,12,Probable,Moderada,nume_pece,Número de peces sembrados
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,9,5,3,2,15,Casi seguro,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Productivo,10,2,2,2,4,Poco usual,Menor,cald_smol,Calidad de smolt
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Sanitario,11,2,2,3,4,Poco usual,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Sanitario,12,2,2,3,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Sanitario,13,2,2,3,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Sanitario,14,2,2,3,4,Poco usual,Menor,bano_anti,Baños antiparasitarios
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Sanitario,15,2,1,2,2,Poco usual,Insignificante,cond_sani,Condición sanitaria de peces sembrados
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Sanitario,16,3,3,2,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Sanitario,17,1,1,3,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Sanitario,18,1,1,3,1,Casi nulo,Insignificante,cerc_gran,Cercanía a granja con enfermedad
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Sanitario,19,2,2,2,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Ambiental,20,2,3,2,6,Poco usual,Moderada,temp_alta,Temperatura mar alta
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Ambiental,21,1,1,3,1,Casi nulo,Insignificante,temp_baja,Temperatura mar baja
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Ambiental,22,2,2,2,4,Poco usual,Menor,pres_lobo,Presencia/ataque de lobos marinos
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Ambiental,23,1,1,3,1,Casi nulo,Insignificante,sust_anae,Sustrato anaeróbico en centro
+CRISTIAN JARA,cjaram@sernapesca.cl,979665051,Región de Los Lagos (X),9,Ambiental,24,3,3,2,9,Ocasional,Moderada,flore_alga,Florecimiento Algas Nocivas
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,1,4,3,2,12,Probable,Moderada,cent_acop,Centros de acopio o plantas de proceso
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,2,2,1,2,2,Poco usual,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,3,2,2,2,4,Poco usual,Menor,traf_mari,Tráfico marítimo
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,4,4,3,3,12,Probable,Moderada,epoc_siem,Época de siembra
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,5,4,3,3,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,6,4,3,3,12,Probable,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,7,5,3,3,15,Casi seguro,Moderada,nume_cent,Número de centros por ACS
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,8,4,3,3,12,Probable,Moderada,nume_pece,Número de peces sembrados
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,9,1,1,2,1,Casi nulo,Insignificante,peso_smol,Peso smolt a la siembra (< 130 gr)
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Productivo,10,1,3,3,3,Casi nulo,Moderada,cald_smol,Calidad de smolt
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Sanitario,11,2,3,3,6,Poco usual,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Sanitario,12,3,2,3,6,Ocasional,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Sanitario,13,3,3,3,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Sanitario,14,4,3,3,12,Probable,Moderada,bano_anti,Baños antiparasitarios
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Sanitario,15,4,3,3,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Sanitario,16,4,2,3,8,Probable,Menor,foul_jaul,Fouling de jaula
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Sanitario,17,5,3,3,15,Casi seguro,Moderada,pres_cali,Presencia de Cáligus
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Sanitario,18,5,3,3,15,Casi seguro,Moderada,cerc_gran,Cercanía a granja con enfermedad
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Sanitario,19,4,2,3,8,Probable,Menor,pres_pece,Presencia de peces de descarte
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Ambiental,21,3,2,3,6,Ocasional,Menor,temp_baja,Temperatura mar baja
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Ambiental,22,4,2,3,8,Probable,Menor,pres_lobo,Presencia/ataque de lobos marinos
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Ambiental,23,1,3,1,3,Casi nulo,Moderada,sust_anae,Sustrato anaeróbico en centro
+ivonne vargas,ivargas@marinefarm.cl,,Región de Los Lagos (X),9,Ambiental,24,5,5,3,25,Casi seguro,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,1,4,2,2,8,Probable,Menor,cent_acop,Centros de acopio o plantas de proceso
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,2,4,3,2,12,Probable,Moderada,muel_carg,Muelles de carga o puertos de operacion
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,3,4,3,2,12,Probable,Moderada,traf_mari,Tráfico marítimo
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,4,3,3,2,9,Ocasional,Moderada,epoc_siem,Época de siembra
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,5,3,2,1,6,Ocasional,Menor,etap_prod,Etapa productiva de barrios vecinos
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,6,3,2,1,6,Ocasional,Menor,dens_cent,Densidad de centros de cultivo en barrio
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,7,4,3,2,12,Probable,Moderada,nume_cent,Número de centros por ACS
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,8,4,3,2,12,Probable,Moderada,nume_pece,Número de peces sembrados
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,9,4,2,1,8,Probable,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Productivo,10,3,4,2,12,Ocasional,Mayor,cald_smol,Calidad de smolt
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Sanitario,11,3,4,2,12,Ocasional,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Sanitario,12,2,3,1,6,Poco usual,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Sanitario,13,2,2,1,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Sanitario,14,3,2,1,6,Ocasional,Menor,bano_anti,Baños antiparasitarios
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Sanitario,15,3,3,2,9,Ocasional,Moderada,cond_sani,Condición sanitaria de peces sembrados
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Sanitario,16,2,2,2,4,Poco usual,Menor,foul_jaul,Fouling de jaula
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Sanitario,17,2,2,1,4,Poco usual,Menor,pres_cali,Presencia de Cáligus
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Sanitario,18,2,3,2,6,Poco usual,Moderada,cerc_gran,Cercanía a granja con enfermedad
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Sanitario,19,3,3,2,9,Ocasional,Moderada,pres_pece,Presencia de peces de descarte
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Ambiental,20,3,3,2,9,Ocasional,Moderada,temp_alta,Temperatura mar alta
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Ambiental,21,2,2,2,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Ambiental,22,3,2,1,6,Ocasional,Menor,pres_lobo,Presencia/ataque de lobos marinos
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Ambiental,23,1,2,2,2,Casi nulo,Menor,sust_anae,Sustrato anaeróbico en centro
+claudia galvez,cgalvez@sernapesca.cl,979665729,Región de Los Lagos (X),10,Ambiental,24,3,4,2,12,Ocasional,Mayor,flore_alga,Florecimiento Algas Nocivas
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,1,5,4,3,20,Casi seguro,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,2,3,3,2,9,Ocasional,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,3,3,3,2,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,4,4,4,3,16,Probable,Mayor,epoc_siem,Época de siembra
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,5,4,4,3,16,Probable,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,6,4,4,3,16,Probable,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,7,4,4,3,16,Probable,Mayor,nume_cent,Número de centros por ACS
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,8,3,3,3,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,9,3,3,2,9,Ocasional,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Productivo,10,4,4,3,16,Probable,Mayor,cald_smol,Calidad de smolt
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Sanitario,11,5,4,3,20,Casi seguro,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Sanitario,12,3,3,2,9,Ocasional,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Sanitario,13,3,3,2,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Sanitario,14,5,4,2,20,Casi seguro,Mayor,bano_anti,Baños antiparasitarios
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Sanitario,15,3,3,2,9,Ocasional,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Sanitario,16,3,3,2,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Sanitario,17,5,4,3,20,Casi seguro,Mayor,pres_cali,Presencia de Cáligus
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Sanitario,18,4,4,3,16,Probable,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Sanitario,19,5,4,3,20,Casi seguro,Mayor,pres_pece,Presencia de peces de descarte
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Ambiental,20,5,4,3,20,Casi seguro,Mayor,temp_alta,Temperatura mar alta
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Ambiental,21,2,2,3,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Ambiental,22,4,4,3,16,Probable,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Ambiental,23,4,4,3,16,Probable,Mayor,sust_anae,Sustrato anaeróbico en centro
+Jorge Mancilla Schulz,jorge.mancilla@marineharvest.com,,Región de Los Lagos (X),23,Ambiental,24,4,4,3,16,Probable,Mayor,flore_alga,Florecimiento Algas Nocivas
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,1,3,3,3,9,Ocasional,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,2,2,2,3,4,Poco usual,Menor,muel_carg,Muelles de carga o puertos de operacion
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,3,2,2,3,4,Poco usual,Menor,traf_mari,Tráfico marítimo
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,4,3,4,3,12,Ocasional,Mayor,epoc_siem,Época de siembra
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,5,3,3,3,9,Ocasional,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,6,3,3,3,9,Ocasional,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,7,3,3,3,9,Ocasional,Moderada,nume_cent,Número de centros por ACS
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,8,3,3,3,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,9,2,2,3,4,Poco usual,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Productivo,10,3,3,3,9,Ocasional,Moderada,cald_smol,Calidad de smolt
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Sanitario,11,3,3,3,9,Ocasional,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Sanitario,12,2,2,3,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Sanitario,13,2,2,3,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Sanitario,14,3,3,3,9,Ocasional,Moderada,bano_anti,Baños antiparasitarios
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Sanitario,15,3,3,3,9,Ocasional,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Sanitario,16,3,3,3,9,Ocasional,Moderada,foul_jaul,Fouling de jaula
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Sanitario,17,4,3,3,12,Probable,Moderada,pres_cali,Presencia de Cáligus
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Sanitario,18,2,2,3,4,Poco usual,Menor,cerc_gran,Cercanía a granja con enfermedad
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Sanitario,19,2,2,3,4,Poco usual,Menor,pres_pece,Presencia de peces de descarte
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Ambiental,20,3,3,3,9,Ocasional,Moderada,temp_alta,Temperatura mar alta
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Ambiental,21,2,2,3,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Ambiental,22,4,4,3,16,Probable,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Ambiental,23,3,3,3,9,Ocasional,Moderada,sust_anae,Sustrato anaeróbico en centro
+Claudio Valenzuela R.,cvalenzuela@aquachile.com,984289362,Región de Los Lagos (X),18,Ambiental,24,4,4,3,16,Probable,Mayor,flore_alga,Florecimiento Algas Nocivas
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,1,5,4,2,20,Casi seguro,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,2,3,3,2,9,Ocasional,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,3,3,3,2,9,Ocasional,Moderada,traf_mari,Tráfico marítimo
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,4,3,3,2,9,Ocasional,Moderada,epoc_siem,Época de siembra
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,5,5,4,3,20,Casi seguro,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,6,5,4,3,20,Casi seguro,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,7,4,4,2,16,Probable,Mayor,nume_cent,Número de centros por ACS
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,8,2,2,1,4,Poco usual,Menor,nume_pece,Número de peces sembrados
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,9,2,2,1,4,Poco usual,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Productivo,10,4,4,2,16,Probable,Mayor,cald_smol,Calidad de smolt
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Sanitario,11,4,4,2,16,Probable,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Sanitario,12,2,2,1,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Sanitario,13,3,3,1,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Sanitario,14,4,3,2,12,Probable,Moderada,bano_anti,Baños antiparasitarios
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Sanitario,15,4,3,2,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Sanitario,16,2,2,1,4,Poco usual,Menor,foul_jaul,Fouling de jaula
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Sanitario,17,5,4,3,20,Casi seguro,Mayor,pres_cali,Presencia de Cáligus
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Sanitario,18,4,4,2,16,Probable,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Sanitario,19,4,3,2,12,Probable,Moderada,pres_pece,Presencia de peces de descarte
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Ambiental,20,4,4,2,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Ambiental,21,3,2,1,6,Ocasional,Menor,temp_baja,Temperatura mar baja
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Ambiental,22,5,4,3,20,Casi seguro,Mayor,pres_lobo,Presencia/ataque de lobos marinos
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Ambiental,23,4,4,2,16,Probable,Mayor,sust_anae,Sustrato anaeróbico en centro
+Marcelo Imilan,marcelo.imilan@marineharvest.com,95198000,Región de Los Lagos (X),17,Ambiental,24,5,4,3,20,Casi seguro,Mayor,flore_alga,Florecimiento Algas Nocivas
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,1,3,2,2,6,Ocasional,Menor,cent_acop,Centros de acopio o plantas de proceso
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,2,1,1,2,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,3,1,2,2,2,Casi nulo,Menor,traf_mari,Tráfico marítimo
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,4,4,3,3,12,Probable,Moderada,epoc_siem,Época de siembra
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,5,5,3,2,15,Casi seguro,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,6,4,2,3,8,Probable,Menor,dens_cent,Densidad de centros de cultivo en barrio
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,7,4,4,3,16,Probable,Mayor,nume_cent,Número de centros por ACS
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,8,3,2,1,6,Ocasional,Menor,nume_pece,Número de peces sembrados
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,9,3,2,3,6,Ocasional,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Productivo,10,4,3,3,12,Probable,Moderada,cald_smol,Calidad de smolt
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Sanitario,11,3,3,2,9,Ocasional,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Sanitario,12,1,1,3,1,Casi nulo,Insignificante,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Sanitario,13,1,1,3,1,Casi nulo,Insignificante,mort_acum,Mortalidad acumulada
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Sanitario,14,1,1,3,1,Casi nulo,Insignificante,bano_anti,Baños antiparasitarios
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Sanitario,15,2,3,3,6,Poco usual,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Sanitario,16,5,5,3,25,Casi seguro,Catastrofica,foul_jaul,Fouling de jaula
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Sanitario,17,1,1,3,1,Casi nulo,Insignificante,pres_cali,Presencia de Cáligus
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Sanitario,18,2,3,3,6,Poco usual,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Sanitario,19,2,3,3,6,Poco usual,Moderada,pres_pece,Presencia de peces de descarte
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Ambiental,20,2,4,3,8,Poco usual,Mayor,temp_alta,Temperatura mar alta
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Ambiental,21,1,1,3,1,Casi nulo,Insignificante,temp_baja,Temperatura mar baja
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Ambiental,22,4,5,3,20,Probable,Catastrofica,pres_lobo,Presencia/ataque de lobos marinos
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Ambiental,23,1,2,3,2,Casi nulo,Menor,sust_anae,Sustrato anaeróbico en centro
+Mauricio Labraña,mlabrana@losfiordos.cl,,Región de Los Lagos (X),16,Ambiental,24,4,5,3,20,Probable,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,1,3,2,2,6,Ocasional,Menor,cent_acop,Centros de acopio o plantas de proceso
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,2,4,3,2,12,Probable,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,3,5,3,2,15,Casi seguro,Moderada,traf_mari,Tráfico marítimo
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,4,4,4,3,16,Probable,Mayor,epoc_siem,Época de siembra
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,5,4,4,3,16,Probable,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,6,5,5,3,25,Casi seguro,Catastrofica,dens_cent,Densidad de centros de cultivo en barrio
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,7,5,4,3,20,Casi seguro,Mayor,nume_cent,Número de centros por ACS
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,8,4,4,3,16,Probable,Mayor,nume_pece,Número de peces sembrados
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,9,4,2,2,8,Probable,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Productivo,10,4,3,3,12,Probable,Moderada,cald_smol,Calidad de smolt
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Sanitario,11,2,2,2,4,Poco usual,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Sanitario,12,2,2,2,4,Poco usual,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Sanitario,13,3,3,3,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Sanitario,14,2,2,3,4,Poco usual,Menor,bano_anti,Baños antiparasitarios
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Sanitario,15,3,3,3,9,Ocasional,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Sanitario,16,4,4,3,16,Probable,Mayor,foul_jaul,Fouling de jaula
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Sanitario,17,2,3,3,6,Poco usual,Moderada,pres_cali,Presencia de Cáligus
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Sanitario,18,3,2,3,6,Ocasional,Menor,cerc_gran,Cercanía a granja con enfermedad
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Sanitario,19,4,3,3,12,Probable,Moderada,pres_pece,Presencia de peces de descarte
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Ambiental,20,3,5,3,15,Ocasional,Catastrofica,temp_alta,Temperatura mar alta
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Ambiental,21,2,3,3,6,Poco usual,Moderada,temp_baja,Temperatura mar baja
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Ambiental,22,3,3,2,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Ambiental,23,1,2,2,2,Casi nulo,Menor,sust_anae,Sustrato anaeróbico en centro
+Andres omar Matus Opitz,amatus@sernapesca.cl,,Región de Los Lagos (X),6,Ambiental,24,4,5,3,20,Probable,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,1,4,3,3,12,Probable,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,2,4,3,3,12,Probable,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,3,4,3,3,12,Probable,Moderada,traf_mari,Tráfico marítimo
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,4,3,3,3,9,Ocasional,Moderada,epoc_siem,Época de siembra
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,5,4,4,3,16,Probable,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,6,4,4,3,16,Probable,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,7,3,3,3,9,Ocasional,Moderada,nume_cent,Número de centros por ACS
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,8,4,4,3,16,Probable,Mayor,nume_pece,Número de peces sembrados
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,9,2,2,3,4,Poco usual,Menor,peso_smol,Peso smolt a la siembra (< 130 gr)
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Productivo,10,4,4,3,16,Probable,Mayor,cald_smol,Calidad de smolt
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Sanitario,11,4,4,3,16,Probable,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Sanitario,12,3,3,2,9,Ocasional,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Sanitario,13,3,3,2,9,Ocasional,Moderada,mort_acum,Mortalidad acumulada
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Sanitario,14,4,4,3,16,Probable,Mayor,bano_anti,Baños antiparasitarios
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Sanitario,15,4,4,3,16,Probable,Mayor,cond_sani,Condición sanitaria de peces sembrados
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Sanitario,16,4,4,3,16,Probable,Mayor,foul_jaul,Fouling de jaula
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Sanitario,17,4,4,3,16,Probable,Mayor,pres_cali,Presencia de Cáligus
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Sanitario,18,4,4,3,16,Probable,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Sanitario,19,4,4,3,16,Probable,Mayor,pres_pece,Presencia de peces de descarte
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Ambiental,20,4,4,3,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Ambiental,21,2,2,3,4,Poco usual,Menor,temp_baja,Temperatura mar baja
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Ambiental,22,3,3,2,9,Ocasional,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Ambiental,23,4,4,3,16,Probable,Mayor,sust_anae,Sustrato anaeróbico en centro
+Alvaro Gaete,agaete@sernapesca.cl,,Región de Los Lagos (X),11,Ambiental,24,4,4,3,16,Probable,Mayor,flore_alga,Florecimiento Algas Nocivas
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,1,3,2,1,6,Ocasional,Menor,cent_acop,Centros de acopio o plantas de proceso
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,2,3,2,1,6,Ocasional,Menor,muel_carg,Muelles de carga o puertos de operacion
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,3,2,2,1,4,Poco usual,Menor,traf_mari,Tráfico marítimo
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,4,4,4,2,16,Probable,Mayor,epoc_siem,Época de siembra
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,5,4,4,2,16,Probable,Mayor,etap_prod,Etapa productiva de barrios vecinos
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,6,3,2,1,6,Ocasional,Menor,dens_cent,Densidad de centros de cultivo en barrio
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,7,3,3,2,9,Ocasional,Moderada,nume_cent,Número de centros por ACS
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,8,3,3,2,9,Ocasional,Moderada,nume_pece,Número de peces sembrados
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Productivo,10,3,3,2,9,Ocasional,Moderada,cald_smol,Calidad de smolt
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Sanitario,11,4,4,3,16,Probable,Mayor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Sanitario,12,3,2,1,6,Ocasional,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Sanitario,13,2,2,1,4,Poco usual,Menor,mort_acum,Mortalidad acumulada
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Sanitario,14,3,2,1,6,Ocasional,Menor,bano_anti,Baños antiparasitarios
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Sanitario,15,3,3,2,9,Ocasional,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Sanitario,16,3,2,1,6,Ocasional,Menor,foul_jaul,Fouling de jaula
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Sanitario,17,4,3,2,12,Probable,Moderada,pres_cali,Presencia de Cáligus
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Sanitario,18,4,4,2,16,Probable,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Sanitario,19,3,2,1,6,Ocasional,Menor,pres_pece,Presencia de peces de descarte
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Ambiental,20,3,3,2,9,Ocasional,Moderada,temp_alta,Temperatura mar alta
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Ambiental,21,3,2,1,6,Ocasional,Menor,temp_baja,Temperatura mar baja
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Ambiental,22,3,2,1,6,Ocasional,Menor,pres_lobo,Presencia/ataque de lobos marinos
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Ambiental,23,2,2,1,4,Poco usual,Menor,sust_anae,Sustrato anaeróbico en centro
+Karen Montecinos,kmontecinos@sernapesca.cl,322819291,Región de Los Lagos (X),11,Ambiental,24,4,4,3,16,Probable,Mayor,flore_alga,Florecimiento Algas Nocivas
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,1,4,4,3,16,Probable,Mayor,cent_acop,Centros de acopio o plantas de proceso
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,2,4,3,3,12,Probable,Moderada,muel_carg,Muelles de carga o puertos de operacion
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,3,5,1,3,5,Casi seguro,Insignificante,traf_mari,Tráfico marítimo
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,4,4,3,3,12,Probable,Moderada,epoc_siem,Época de siembra
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,5,4,3,2,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,6,5,4,3,20,Casi seguro,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,7,5,4,3,20,Casi seguro,Mayor,nume_cent,Número de centros por ACS
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,8,5,4,3,20,Casi seguro,Mayor,nume_pece,Número de peces sembrados
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,9,4,3,2,12,Probable,Moderada,peso_smol,Peso smolt a la siembra (< 130 gr)
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Productivo,10,4,4,3,16,Probable,Mayor,cald_smol,Calidad de smolt
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Sanitario,11,4,3,3,12,Probable,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Sanitario,12,4,3,3,12,Probable,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Sanitario,13,3,4,2,12,Ocasional,Mayor,mort_acum,Mortalidad acumulada
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Sanitario,14,1,3,2,3,Casi nulo,Moderada,bano_anti,Baños antiparasitarios
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Sanitario,15,4,3,2,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Sanitario,16,3,4,2,12,Ocasional,Mayor,foul_jaul,Fouling de jaula
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Sanitario,17,2,4,2,8,Poco usual,Mayor,pres_cali,Presencia de Cáligus
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Sanitario,18,4,4,2,16,Probable,Mayor,cerc_gran,Cercanía a granja con enfermedad
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Sanitario,19,3,3,2,9,Ocasional,Moderada,pres_pece,Presencia de peces de descarte
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Ambiental,20,4,4,2,16,Probable,Mayor,temp_alta,Temperatura mar alta
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Ambiental,21,3,2,2,6,Ocasional,Menor,temp_baja,Temperatura mar baja
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Ambiental,22,4,2,2,8,Probable,Menor,pres_lobo,Presencia/ataque de lobos marinos
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Ambiental,23,3,4,2,12,Ocasional,Mayor,sust_anae,Sustrato anaeróbico en centro
+Branny Montecinos,bmontecinos@sernapesca.cl,,Región de Los Lagos (X),14,Ambiental,24,5,5,3,25,Casi seguro,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,1,2,3,1,6,Poco usual,Moderada,cent_acop,Centros de acopio o plantas de proceso
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,2,1,1,1,1,Casi nulo,Insignificante,muel_carg,Muelles de carga o puertos de operacion
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,3,1,2,1,2,Casi nulo,Menor,traf_mari,Tráfico marítimo
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,4,1,1,1,1,Casi nulo,Insignificante,epoc_siem,Época de siembra
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,5,1,1,1,1,Casi nulo,Insignificante,etap_prod,Etapa productiva de barrios vecinos
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,6,1,4,2,4,Casi nulo,Mayor,dens_cent,Densidad de centros de cultivo en barrio
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,7,2,3,2,6,Poco usual,Moderada,nume_cent,Número de centros por ACS
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,8,2,3,2,6,Poco usual,Moderada,nume_pece,Número de peces sembrados
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,9,1,1,1,1,Casi nulo,Insignificante,peso_smol,Peso smolt a la siembra (< 130 gr)
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Productivo,10,1,1,1,1,Casi nulo,Insignificante,cald_smol,Calidad de smolt
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Sanitario,11,5,2,1,10,Casi seguro,Menor,ante_actu,Antecedente de enfermedad periodo ACTUAL
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Sanitario,12,1,2,1,2,Casi nulo,Menor,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Sanitario,13,5,2,1,10,Casi seguro,Menor,mort_acum,Mortalidad acumulada
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Sanitario,14,2,2,1,4,Poco usual,Menor,bano_anti,Baños antiparasitarios
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Sanitario,15,2,2,2,4,Poco usual,Menor,cond_sani,Condición sanitaria de peces sembrados
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Sanitario,16,2,2,2,4,Poco usual,Menor,foul_jaul,Fouling de jaula
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Sanitario,17,2,2,1,4,Poco usual,Menor,pres_cali,Presencia de Cáligus
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Sanitario,18,2,3,1,6,Poco usual,Moderada,cerc_gran,Cercanía a granja con enfermedad
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Sanitario,19,1,2,1,2,Casi nulo,Menor,pres_pece,Presencia de peces de descarte
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Ambiental,20,3,3,2,9,Ocasional,Moderada,temp_alta,Temperatura mar alta
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Ambiental,21,1,1,1,1,Casi nulo,Insignificante,temp_baja,Temperatura mar baja
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Ambiental,22,4,2,2,8,Probable,Menor,pres_lobo,Presencia/ataque de lobos marinos
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Ambiental,23,3,2,2,6,Ocasional,Menor,sust_anae,Sustrato anaeróbico en centro
+Leonardo Saavedra Rodríguez,lsaavedra@sernapesca.cl,2220013,Región de Los Lagos (X),11,Ambiental,24,2,5,3,10,Poco usual,Catastrofica,flore_alga,Florecimiento Algas Nocivas
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,1,4,2,3,8,Probable,Menor,cent_acop,Centros de acopio o plantas de proceso
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,2,5,3,2,15,Casi seguro,Moderada,muel_carg,Muelles de carga o puertos de operacion
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,3,5,3,3,15,Casi seguro,Moderada,traf_mari,Tráfico marítimo
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,4,5,4,3,20,Casi seguro,Mayor,epoc_siem,Época de siembra
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,5,4,3,2,12,Probable,Moderada,etap_prod,Etapa productiva de barrios vecinos
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,6,4,3,2,12,Probable,Moderada,dens_cent,Densidad de centros de cultivo en barrio
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,7,5,3,3,15,Casi seguro,Moderada,nume_cent,Número de centros por ACS
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,8,4,3,3,12,Probable,Moderada,nume_pece,Número de peces sembrados
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,9,2,4,3,8,Poco usual,Mayor,peso_smol,Peso smolt a la siembra (< 130 gr)
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Productivo,10,1,2,3,2,Casi nulo,Menor,cald_smol,Calidad de smolt
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Sanitario,11,3,3,3,9,Ocasional,Moderada,ante_actu,Antecedente de enfermedad periodo ACTUAL
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Sanitario,12,2,3,2,6,Poco usual,Moderada,ante_ante,Antecedente de enfermedad periodo ANTERIOR
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Sanitario,13,2,4,3,8,Poco usual,Mayor,mort_acum,Mortalidad acumulada
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Sanitario,14,2,3,3,6,Poco usual,Moderada,bano_anti,Baños antiparasitarios
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Sanitario,15,4,3,2,12,Probable,Moderada,cond_sani,Condición sanitaria de peces sembrados
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Sanitario,16,4,3,3,12,Probable,Moderada,foul_jaul,Fouling de jaula
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Sanitario,17,2,3,3,6,Poco usual,Moderada,pres_cali,Presencia de Cáligus
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Sanitario,18,2,2,3,4,Poco usual,Menor,cerc_gran,Cercanía a granja con enfermedad
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Sanitario,19,4,2,2,8,Probable,Menor,pres_pece,Presencia de peces de descarte
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Ambiental,20,4,5,3,20,Probable,Catastrofica,temp_alta,Temperatura mar alta
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Ambiental,21,4,3,3,12,Probable,Moderada,temp_baja,Temperatura mar baja
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Ambiental,22,4,3,3,12,Probable,Moderada,pres_lobo,Presencia/ataque de lobos marinos
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Ambiental,23,5,4,3,20,Casi seguro,Mayor,sust_anae,Sustrato anaeróbico en centro
+LEMUS,elemus@sernapesca.cl,990892669,Región de Los Lagos (X),1,Ambiental,24,4,5,3,20,Probable,Catastrofica,flore_alga,Florecimiento Algas Nocivas
